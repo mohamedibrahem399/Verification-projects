@@ -2,5 +2,5 @@ In this project I made a full Adder design and then made full verification plan 
  
 This is the link for the project code in eda playground:
 
-https://www.edaplayground.com/x/ca54
+https://www.edaplayground.com/x/dYAQ
 
